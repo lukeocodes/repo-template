@@ -42,7 +42,7 @@ In the interest of fostering an open and welcoming environment, we strive to mak
 ## Contributing 
 We :heart: contributions from everyone! It is a good idea to [talk to us](https://developer.nexmo.com/community/slack) first if you plan to add any new functionality. Otherwise, [bug reports](/issues), [bug fixes](/pulls) and feedback on the library is always appreciated. Check out the [Contributing Guidelines](CONTRIBUTING.md) for more information and please follow the [GitHub Flow](https://guides.github.com/introduction/flow/index.html).
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./../../issues)
 
 ## License
 
