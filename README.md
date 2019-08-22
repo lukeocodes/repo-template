@@ -46,7 +46,7 @@ We :heart: contributions from everyone! It is a good idea to [talk to us](talkto
 
 ## License
 
-This project is subject to the [license]
+This project is subject to the [MIT License][license]
 
 [contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
 [coc]: CODE_OF_CONDUCT.md
