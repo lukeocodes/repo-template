@@ -1,10 +1,14 @@
 # Contributing Guidelines
 
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+:+1::tada: We :heart: contributions from everyone! :tada::+1:
+
+It is a good idea to [talk to us][talktous] first if you plan to add any new functionality. Otherwise, [bug reports][issues], [bug fixes][pulls] and feedback on the library is always appreciated. Check out the [Contributing Guidelines][contributing] for more information and please follow the [GitHub Flow][githubflow].
+
+[![contributions welcome][contribadge]][issues]
 
 The following is a set of guidelines for contributing to this project, which are hosted on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-Please take the time to review the [Code of Conduct](coc), which all contributors are subject to on this project.
+Please take the time to review the [Code of Conduct][coc], which all contributors are subject to on this project.
 
 [I don't want to read this whole thing, I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
 
@@ -33,7 +37,7 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug-r
 
 ### How Do I Submit A (Good) Bug Report?
 
-Bugs are tracked as [GitHub issues](githubissues). Create an issue and provide the following information by filling in [the template](.github/ISSUE_TEMPLATE/bug_report.md).
+Bugs are tracked as [GitHub issues][githubissues]. Create an issue and provide the following information by filling in [the template](.github/ISSUE_TEMPLATE/bug_report.md).
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
@@ -103,6 +107,13 @@ Alternatively, you can raise an issue on the project.
 
 [beginner]:https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Abeginner+label%3Ahelp-wanted+user%3Anexmo-community+sort%3Acomments-desc
 [help-wanted]:https://github.com/search?q=is%3Aopen+is%3Aissue+label%3Ahelp-wanted+user%3Anexmo-community+sort%3Acomments-desc+-label%3Abeginner
-[coc]: CODE_OF_CONDUCT.md
-[contributing]: CONTRIBUTING.md
-[githubissues]: https://guides.github.com/features/issues/
+
+[contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat "Contributions Welcome"
+[coc]: CODE_OF_CONDUCT.md "Code of Conduct"
+[contributing]: CONTRIBUTING.md "Contributing"
+[githubflow]: https://guides.github.com/introduction/flow/index.html "GitHub Flow"
+[talktous]: https://developer.nexmo.com/community/slack "Nexmo Community Slack"
+[pulls]: ./../../pulls "Pull requests"
+[issues]: ./../../issues "Issues"
+[signup]: https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=lukeocodes
+[license]: LICENSE "MIT License"

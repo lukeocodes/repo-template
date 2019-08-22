@@ -39,7 +39,7 @@ About the project etc etc.
 In the interest of fostering an open and welcoming environment, we strive to make participation in our project and our community a harassment-free experience for everyone. Please check out our [Code of Conduct][coc] in full.
 
 ## Contributing 
-We :heart: contributions from everyone! It is a good idea to [talk to us][talktous] first if you plan to add any new functionality. Otherwise, [bug reports][issues], [bug fixes][pulls] and feedback on the library is always appreciated. Check out the [Contributing Guidelines][contributing] for more information and please follow the [GitHub Flow][githubflow].
+We :heart: contributions from everyone! Check out the [Contributing Guidelines][contributing] for more information.
 
 [![contributions welcome][contribadge]][issues]
 

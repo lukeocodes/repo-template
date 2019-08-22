@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at devrel@nexmo.com. All
+reported by contacting the project team at [devrel@nexmo.com][devrel]. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -67,10 +67,24 @@ members of the project's leadership.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
+This Code of Conduct is adapted from the [Contributor Covenant][cchomepage], version 1.4,
+available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html][cccoc]
 
 For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+[https://www.contributor-covenant.org/faq][ccfaq]
+
+[cccoc]: https://www.contributor-covenant.org/version/1/4/code-of-conduct.html "Contributor Covenant CoC"
+[cchomepage]: https://www.contributor-covenant.org "Contributor Covenant"
+[ccfaq]: https://www.contributor-covenant.org/faq "Contributor Covenant FAQ"
+
+[logo]: nexmo.png "Nexmo"
+[contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat "Contributions Welcome"
+[coc]: CODE_OF_CONDUCT.md "Code of Conduct"
+[contributing]: CONTRIBUTING.md "Contributing"
+[githubflow]: https://guides.github.com/introduction/flow/index.html "GitHub Flow"
+[talktous]: https://developer.nexmo.com/community/slack "Nexmo Community Slack"
+[pulls]: ./../../pulls "Pull requests"
+[issues]: ./../../issues "Issues"
+[signup]: https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=lukeocodes
+[license]: LICENSE "MIT License"
+[devrel]: devrel@nexmo.com "DevRel at Nexmo dot com"
