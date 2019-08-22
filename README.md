@@ -1,4 +1,4 @@
-![Nexmo](nexmo.png)
+![Nexmo][logo]
 
 # Project Name
 
@@ -18,7 +18,6 @@ About the project etc etc.
 - [Contributing](#contributing)
 - [License](#license)
 
-
 ## Getting Started
 
 ### Start Locally
@@ -37,23 +36,24 @@ About the project etc etc.
 
 ## Code of Conduct
 
-In the interest of fostering an open and welcoming environment, we strive to make participation in our project and our community a harassment-free experience for everyone. Please check out our [Code of Conduct](coc) in full.
+In the interest of fostering an open and welcoming environment, we strive to make participation in our project and our community a harassment-free experience for everyone. Please check out our [Code of Conduct][coc] in full.
 
 ## Contributing 
-We :heart: contributions from everyone! It is a good idea to [talk to us](talktous) first if you plan to add any new functionality. Otherwise, [bug reports](issues), [bug fixes](pulls) and feedback on the library is always appreciated. Check out the [Contributing Guidelines](contributing) for more information and please follow the [GitHub Flow](githubflow).
+We :heart: contributions from everyone! It is a good idea to [talk to us][talktous] first if you plan to add any new functionality. Otherwise, [bug reports][issues], [bug fixes][pulls] and feedback on the library is always appreciated. Check out the [Contributing Guidelines][contributing] for more information and please follow the [GitHub Flow][githubflow].
 
-[![contributions welcome](contribadge)][issues]
+[![contributions welcome][contribadge]][issues]
 
 ## License
 
 This project is subject to the [MIT License][license]
 
-[contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-[coc]: CODE_OF_CONDUCT.md
-[contributing]: CONTRIBUTING.md
-[githubflow]: https://guides.github.com/introduction/flow/index.html
-[pulls]: ./../../pulls
-[talktous]: https://developer.nexmo.com/community/slack
-[issues]: ./../../issues
+[logo]: nexmo.png "Nexmo"
+[contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat "Contributions Welcome"
+[coc]: CODE_OF_CONDUCT.md "Code of Conduct"
+[contributing]: CONTRIBUTING.md "Contributing"
+[githubflow]: https://guides.github.com/introduction/flow/index.html "GitHub Flow"
+[talktous]: https://developer.nexmo.com/community/slack "Nexmo Community Slack"
+[pulls]: ./../../pulls "Pull requests"
+[issues]: ./../../issues "Issues"
 [signup]: https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=lukeocodes
 [license]: LICENSE "MIT License"
