@@ -46,7 +46,7 @@ We :heart: contributions from everyone! It is a good idea to [talk to us](talkto
 
 ## License
 
-This project is subject to the [MIT License][license]
+This project is subject to the [license]
 
 [contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
 [coc]: CODE_OF_CONDUCT.md
@@ -56,4 +56,4 @@ This project is subject to the [MIT License][license]
 [talktous]: https://developer.nexmo.com/community/slack
 [issues]: ./../../issues
 [signup]: https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=lukeocodes
-[license]: LICENSE
+[license]: LICENSE "MIT License"
