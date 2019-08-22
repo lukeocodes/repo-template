@@ -49,11 +49,9 @@ This project is subject to the [MIT License][license]
 
 [logo]: nexmo.png "Nexmo"
 [contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat "Contributions Welcome"
+
 [coc]: CODE_OF_CONDUCT.md "Code of Conduct"
 [contributing]: CONTRIBUTING.md "Contributing"
-[githubflow]: https://guides.github.com/introduction/flow/index.html "GitHub Flow"
-[talktous]: https://developer.nexmo.com/community/slack "Nexmo Community Slack"
-[pulls]: ./../../pulls "Pull requests"
-[issues]: ./../../issues "Issues"
-[signup]: https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=lukeocodes
 [license]: LICENSE "MIT License"
+
+[issues]: ./../../issues "Issues"
