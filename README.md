@@ -1,4 +1,4 @@
-![Nexmo][logo]
+![Vonage][logo]
 
 # Project Name
 
@@ -48,7 +48,7 @@ We :heart: contributions from everyone! Check out the [Contributing Guidelines][
 
 This project is subject to the [MIT License][license]
 
-[logo]: nexmo.png "Nexmo"
+[logo]: vonage_logo.png "Vonage"
 [contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat "Contributions Welcome"
 
 [coc]: CODE_OF_CONDUCT.md "Code of Conduct"
